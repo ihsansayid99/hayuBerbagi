@@ -204,6 +204,8 @@ body{
 }
 .contact-us div > iframe {
     border-radius: 10px;
+    width: 600px;
+    height: 450px;
 }
 /* End Contact Us */
 
@@ -264,6 +266,12 @@ body{
     .dokumentasi-section div > iframe {
         width: 100%;
         height: 315px;
+    }
+    /* Contact Us */
+    .contact-us div > iframe {
+        border-radius: 10px;
+        width: 350px;
+        height: 250px;
     }
 }
 
