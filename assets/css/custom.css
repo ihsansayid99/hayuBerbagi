@@ -236,12 +236,8 @@ body{
 /* // Small devices (landscape phones, 576px and up) */
 @media all and (max-width: 480px) {
     /* Hero */
-    .hero-img{
-        margin-left: auto;
-        margin-right: auto;
-    }
     .hero-img > img{
-        max-width: 300px;
+        width: 100%;
     }
     .hero-text{
         padding-top: 40px;
