@@ -275,7 +275,7 @@ body{
     /* Contact Us */
     .contact-us div > iframe {
         border-radius: 10px;
-        width: 350px;
+        width: 100%;
         height: 250px;
     }
 }
